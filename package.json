@@ -1,0 +1,28 @@
+{
+  "name": "liqpay-sdk",
+  "version": "3.0.0",
+  "description": "Npm wrapper for the official LiqPay SDK",
+  "main": "liqpay/lib/liqpay.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AntuanKhanna/liqpay-sdk"
+  },
+  "bugs": {
+    "url": "https://github.com/AntuanKhanna/liqpay-sdk/issues"
+  },
+  "keywords": [
+    "liqpay",
+    "sdk",
+    "api"
+  ],
+  "author": {
+    "name": "Antuan Khanna",
+    "email": "antuan@antuankhanna.com",
+    "url": "https://www.antuankhanna.com"
+  },
+  "dependencies": {
+    "crypto": "^0.0.3",
+    "request": "2.69.x"
+  }
+}
