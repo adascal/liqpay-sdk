@@ -2,6 +2,9 @@
 
 Npm wrapper for the official [LiqPay SDK].
 
+Please note that the version specified in `package.json` file
+may differ from the one in `lib/liqpay.js`.
+
 ## Install
 
 ```sh
