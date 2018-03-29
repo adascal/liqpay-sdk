@@ -22,7 +22,6 @@
     "url": "https://www.antuankhanna.com"
   },
   "dependencies": {
-    "crypto": "^0.0.3",
     "request": "2.80.x"
   }
 }
